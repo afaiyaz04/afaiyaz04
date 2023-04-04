@@ -6,15 +6,6 @@
 Feel free to browse through my repositories and join me in my quest for digital greatness. Together, let's turn ideas into reality and make the world a better place, one commit at a time.
 </p>
 
-<a href="https://linkedin.com/in/ahbab-faiyaz" rel="nofollow">
-<img src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://instagram.com/ahbab.faiyaz" rel="nofollow">
-<img src="https://camo.githubusercontent.com/eff3e7484b1754de8279027247ccec9c3deaeb76b4c4946c5d634a8579c2c1ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://www.facebook.com/ahbab.faiyaz" rel="nofollow">
-<img src="https://camo.githubusercontent.com/59f500f98d07c8fb5cc38b71662de8f4422ebf7b3dde3e574131a8edd7a0d3f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333245383746422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="facebook" data-canonical-src="https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;">
-</a>
 
 - 🔭 I’m currently working on [Mental-Health-Blog] (https://github.com/afaiyaz04/Mental-Health-Blog)
 
@@ -24,13 +15,19 @@ Feel free to browse through my repositories and join me in my quest for digital 
 
 - 📫 How to reach me **ahbabfaiyaz@gmail.com**
 
-- ⚡ Fun fact **I travelled 19/195 countries 🌎🗺**
+- ⚡ Fun fact: **I travelled 19/195 countries 🌎🗺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ahbab-faiyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahbab-faiyaz" height="30" width="40" /></a>
-<a href="https://fb.com/ahbab faiyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahbab faiyaz" height="30" width="40" /></a>
-<a href="https://instagram.com/ahbab.faiyaz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahbab.faiyaz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahbab-faiyaz" rel="nofollow">
+<img src="https://camo.githubusercontent.com/5e3d78e5310a41c0667e07077cf93596229de398b154b83885dc068874ed5365/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333145373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="linkedin" data-canonical-src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://instagram.com/ahbab.faiyaz" rel="nofollow">
+<img src="https://camo.githubusercontent.com/eff3e7484b1754de8279027247ccec9c3deaeb76b4c4946c5d634a8579c2c1ce/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532333030303030302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" alt="instagram" data-canonical-src="https://img.shields.io/badge/instagram-%23000000.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://www.facebook.com/ahbab.faiyaz" rel="nofollow">
+<img src="https://camo.githubusercontent.com/59f500f98d07c8fb5cc38b71662de8f4422ebf7b3dde3e574131a8edd7a0d3f4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f66616365626f6f6b2d2532333245383746422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465" alt="facebook" data-canonical-src="https://img.shields.io/badge/facebook-%232E87FB.svg?&amp;style=for-the-badge&amp;logo=facebook&amp;logoColor=white" style="max-width: 100%;">
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
