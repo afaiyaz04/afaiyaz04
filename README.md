@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ahbab Faiyaz</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-<h2 align="left"> Welcome to my GitHub profile, where I pour my heart and soul into creating elegant and efficient solutions to complex problems. As a proud graduate of The University of Melbourne, I'm thrilled to share my passion for software engineering with the world. With a solid foundation in computer science and a deep understanding of the latest technologies, I'm committed to creating high-quality, reliable, and scalable software that can make a difference in people's lives. Whether it's building cutting-edge applications, contributing to open-source projects, or collaborating with fellow developers, I approach every challenge with enthusiasm, creativity, and a dedication to excellence.
+<p align="left"> Welcome to my GitHub profile, where I pour my heart and soul into creating elegant and efficient solutions to complex problems. As a proud graduate of The University of Melbourne, I'm thrilled to share my passion for software engineering with the world. With a solid foundation in computer science and a deep understanding of the latest technologies, I'm committed to creating high-quality, reliable, and scalable software that can make a difference in people's lives. Whether it's building cutting-edge applications, contributing to open-source projects, or collaborating with fellow developers, I approach every challenge with enthusiasm, creativity, and a dedication to excellence.
 
 Feel free to browse through my repositories and join me in my quest for digital greatness. Together, let's turn ideas into reality and make the world a better place, one commit at a time.
-</h2>
+</p>
 - 🔭 I’m currently working on [Mental-Health-Blog](https://github.com/afaiyaz04/Mental-Health-Blog)
 
 - 🌱 I’m currently learning **AWS and PyTorch**
