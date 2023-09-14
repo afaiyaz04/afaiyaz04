@@ -7,7 +7,6 @@ Feel free to browse through my repositories and join me in my quest for digital 
 </p>
 
 
-- 🔭 I’m currently working on [Mental-Health-Blog] (https://github.com/afaiyaz04/Mental-Health-Blog)
 
 - 🌱 I’m currently learning **AWS and PyTorch**
 
