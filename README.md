@@ -14,7 +14,7 @@ Feel free to browse through my repositories and join me in my quest for digital 
 
 - 📫 How to reach me **ahbabfaiyaz@gmail.com**
 
-- ⚡ Fun fact: **I travelled 19/195 countries 🌎🗺**
+- ⚡ Fun fact: **I travelled 20/195 countries 🌎🗺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
